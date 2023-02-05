@@ -1,0 +1,16 @@
+.content-wrapper {
+
+    nav {
+        background-color: blue;
+    }
+
+    .content {
+        aside {
+            width: 300px;
+            background-color: red;
+        }
+        main {
+            position: relative;
+        }
+    }
+}
